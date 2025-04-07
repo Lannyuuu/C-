@@ -1,0 +1,6 @@
+﻿  Lab6Task6.cpp
+C:\Users\yyx20\Desktop\gitee仓库克隆\C++\20250407C++\20250407C++\Lab6Task6.cpp(19,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Lab6Task7.cpp
+C:\Users\yyx20\Desktop\gitee仓库克隆\C++\20250407C++\20250407C++\Lab6Task7.cpp(9,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  20250407C++.vcxproj -> C:\Users\yyx20\Desktop\gitee仓库克隆\C++\20250407C++\x64\Debug\20250407C++.exe

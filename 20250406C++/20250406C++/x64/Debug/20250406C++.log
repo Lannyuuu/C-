@@ -1,0 +1,7 @@
+﻿  Lab4Test.cpp
+C:\Users\yyx20\Desktop\gitee仓库克隆\C++\20250406C++\20250406C++\Lab4Test.cpp(39,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\yyx20\Desktop\gitee仓库克隆\C++\20250406C++\20250406C++\Lab4Test.cpp(69,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yyx20\Desktop\gitee仓库克隆\C++\20250406C++\20250406C++\Lab4Test.cpp(70,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yyx20\Desktop\gitee仓库克隆\C++\20250406C++\20250406C++\Lab4Test.cpp(220,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yyx20\Desktop\gitee仓库克隆\C++\20250406C++\20250406C++\Lab4Test.cpp(227,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  20250406C++.vcxproj -> C:\Users\yyx20\Desktop\gitee仓库克隆\C++\20250406C++\x64\Debug\20250406C++.exe
